@@ -15,7 +15,7 @@
 	url = git@github.com:desantis/libuv.git
 [submodule "subprojects/libscrypt"]
 	path = subprojects/libscrypt
-	url = https://github.com/urbit/libscrypt.git
+	url = git@github.com:desantis/libscrypt.git
 [submodule "subprojects/libsni"]
 	path = subprojects/libsni
 	url = https://github.com/urbit/sniproxy
