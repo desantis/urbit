@@ -27,4 +27,4 @@
 	url = git@github.com:desantis/secp256k1.git
 [submodule "subprojects/softfloat3"]
 	path = subprojects/softfloat3
-	url = https://github.com/urbit/berkeley-softfloat-3.git
+	url = git@github.com:desantis/berkeley-softfloat-3.git
