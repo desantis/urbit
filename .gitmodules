@@ -12,7 +12,7 @@
 	url = git@github.com:desantis/libent.git
 [submodule "subprojects/libuv"]
 	path = subprojects/libuv
-	url = https://github.com/urbit/libuv.git
+	url = git@github.com:desantis/libuv.git
 [submodule "subprojects/libscrypt"]
 	path = subprojects/libscrypt
 	url = https://github.com/urbit/libscrypt.git
