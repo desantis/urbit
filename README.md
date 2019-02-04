@@ -27,8 +27,8 @@ If you're doing development on Urbit, keep reading.
 - curses implementation (ncurses on Linux distributions, OS curses otherwise)
 
 Most of these dependencies are unfortunate; we aim to drastically shrink the
-list in upcoming versions. `vere` proper makes use of GMP, OpenSSL, libcurl, and
-libsigsegv.
+list in upcoming versions. `vere` proper makes use of GMP, OpenSSL, libcurl,
+and libsigsegv.
 
 ## Building
 
@@ -42,7 +42,8 @@ Some libraries which are not found in major distributions:
 - softfloat3
 - scrypt
 
-are included as git submodules. To build urbit from source, perform the following steps:
+are included as git submodules. To build urbit from source, perform the
+following steps:
 
 ## Configuration & compilation
 (For instructions for legacy meson, also see below)
