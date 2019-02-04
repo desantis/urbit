@@ -6,7 +6,7 @@
 	url = git@github.com:desantis/ed25519.git
 [submodule "subprojects/h2o"]
 	path = subprojects/libh2o
-	url = https://github.com/urbit/h2o.git
+	url = git@github.com:desantis/h2o.git
 [submodule "subprojects/libent"]
 	path = subprojects/libent
 	url = https://github.com/urbit/libent.git
