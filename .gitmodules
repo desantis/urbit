@@ -3,7 +3,7 @@
 	url = git@github.com:desantis/argon2.git
 [submodule "subprojects/ed25519"]
 	path = subprojects/ed25519
-	url = https://github.com/urbit/ed25519.git
+	url = git@github.com:desantis/ed25519.git
 [submodule "subprojects/h2o"]
 	path = subprojects/libh2o
 	url = https://github.com/urbit/h2o.git
