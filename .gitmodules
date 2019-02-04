@@ -1,6 +1,6 @@
 [submodule "subprojects/argon2"]
 	path = subprojects/argon2
-	url = https://github.com/urbit/argon2.git
+	url = git@github.com:desantis/argon2.git
 [submodule "subprojects/ed25519"]
 	path = subprojects/ed25519
 	url = https://github.com/urbit/ed25519.git
